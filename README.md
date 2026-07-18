@@ -53,13 +53,25 @@ This repository is not standalone and will not build on its own.
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/93917cb8-9e07-4200-b0b9-abb05e388975" width="100%"/>
       <p><b>Juror's Choice Award — Final Phase</b><br/>
-      <sub>Airy's reflectance on the hexagonal columns, correct CIE conversion</sub></p>
+      <sub>Airy's Reflectance on the hexagonal columns, correct CIE conversion</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/a67b81c0-8f84-4ac8-815b-b228f8d73242" width="100%"/>
       <p><b>Thinking about teapots</b></p>
+    </td>
+    <td width="50%">
+      <img src="<img width="3840" height="2160" alt="4K" src="https://github.com/user-attachments/assets/2b7d073b-0735-4998-aec0-8a67e4203b5a" />
+" width="100%"/>
+      <p><b>First iteration of competition entry before including Spectral Rendering. Thought it'd be real funny to have the Creation of Adam but with the teapot in the middle. The idea stuck with me.</b></p>
+    </td>
+  </tr
+      <tr>
+    <td width="50%">
+      <img src="<img width="1080" height="720" alt="1024spp 40min" src="https://github.com/user-attachments/assets/97fddff6-fde6-4a08-b3c8-b4769925d73b" />
+" width="100%"/>
+      <p><b>Testing Airy's Reflectance on white material </b></p>
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/e1f648d1-ce2e-4ae1-8960-2666b180307f" width="100%"/>
