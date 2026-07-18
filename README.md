@@ -62,16 +62,15 @@ This repository is not standalone and will not build on its own.
       <p><b>Thinking about teapots</b></p>
     </td>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/2b7d073b-0735-4998-aec0-8a67e4203b5a" />
-" width="100%"/>
-      <p><b>First iteration of competition entry before including Spectral Rendering. Thought it'd be real funny to have the Creation of Adam but with the teapot in the middle. The idea stuck with me.</b></p>
+      <img src="https://github.com/user-attachments/assets/2b7d073b-0735-4998-aec0-8a67e4203b5a" width="100%"/>
+      <p><b>First Iteration of Entry</b><br/>
+      <sub>I just thought it'd be really funny to have the Creation of Adam but with the Utah Teapot in between them. Went through several different ideas for an entry, but I kept coming back to this soooooo decided to give it a technical upgrade! This is before implemented the spectral renderer. </sub></p> 
     </td>
   </tr
       <tr>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/97fddff6-fde6-4a08-b3c8-b4769925d73b" />
-" width="100%"/>
-      <p><b>Testing Airy's Reflectance on white material </b></p>
+      <img src="https://github.com/user-attachments/assets/97fddff6-fde6-4a08-b3c8-b4769925d73b" width="100%"/>
+      <p><b>Testing Airy's Reflectance </b></p>
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/e1f648d1-ce2e-4ae1-8960-2666b180307f" width="100%"/>
